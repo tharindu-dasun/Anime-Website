@@ -1,0 +1,35 @@
+/*==================Google Fonts=====================*/
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&family=Clicker+Script&family=Montserrat:wght@400;500;700&family=Poppins:wght@200;300;400;500;600&display=swap');
+
+/*==================Variable CSS=====================*/
+:root {
+    --header-height: 3.5rem;
+    /*==================Colours=====================*/
+    --hus: 228;
+    --first-color: hsl(var(--hus), 45%, 42%);
+    --title-color: #fff;
+    --text-color: hsl(var(--hus), 8%, 65%);
+    --body-color: hsl(var(--hus), 26%, 11%);
+    --container-color: hsl(var(--hus), 22%, 12%);
+    --container-color-light: hsl(var(--hus), 21%, 14%);
+    --border-color: hsl(var(--hus), 23%, 24%);
+    --black: #000;
+
+    /*==================Fonts & Typograpy=====================*/
+    --body-font: 'Montserrat', sans-serif;
+    --big-font-size: 2.5rem;
+    --h1-font-size: 1.75rem;
+    --h2-font-size: 1.5rem;
+    --h3-font-size: 1.25rem;
+    --normal-font-size: 1rem;
+    --small-font-size: .875rem;
+    --smaller-font-size: .625rem;
+
+    /*==================Fonts Weight=====================*/
+    --weight-400: 400;
+    --weight-500: 500;
+    --weight-700: 700;
+
+    /*==================Transition=====================*/
+    --trasition: ;
+}
