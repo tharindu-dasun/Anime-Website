@@ -31,5 +31,35 @@
     --weight-700: 700;
 
     /*==================Transition=====================*/
-    --trasition: ;
+    --trasition: ease-in-out;
 }
+    /*==================Responsive typograpy=====================*/
+    @media screen and (max-width: 992px){
+            :root{
+                --big-font-size: 2.5rem;
+                --h1-font-size: 1.75rem;
+                --h2-font-size: 1.5rem;
+                --h3-font-size: 1.25rem;
+                --normal-font-size: 1rem;
+                --small-font-size: .875rem;
+            }
+    }
+    /*==================base=====================*/
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body{
+            background-color: var(--body-color);
+            color: var(--text-color);
+            font-family: var(--body-font);
+            font-size: var(--normal-font-size);
+        }
+    /*==================Reuseble css classes=====================*/
+    /*==================Header and Nav=====================*/
+    /*==================Scroll header=====================*/
+    /*==================Active link=====================*/
+    /*==================Home=====================*/
+    /*==================Button=====================*/
