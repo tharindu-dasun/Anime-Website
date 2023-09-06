@@ -78,7 +78,39 @@
             max-width: 100%;
         }
     /*==================Reuseble css classes=====================*/
+.container{
+    /*background-color: var(--first-color);*/
+    max-width: 1400px;
+    margin-inline: auto;
+    padding-inline: 0.75rem;
+}
+
     /*==================Header and Nav=====================*/
+.header{
+    /*background-color: var(--first-color);*/
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.nav{
+    background-color: var(--first-color);
+    height: calc(var(--header-height) + 1rem);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav__list{
+    display: flex;
+    column-gap: 1.75rem;
+}
+
+.nav__link{
+    color: var(--title-color);
+    transition: all 0.3s var(--trasition);
+}
     /*==================Scroll header=====================*/
     /*==================Active link=====================*/
     /*==================Home=====================*/
