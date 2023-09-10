@@ -100,7 +100,7 @@
 }
 
 .nav{
-    background-color: var(--first-color);
+    /*background-color: var(--first-color);*/
     height: calc(var(--header-height) + 1rem);
     display: flex;
     justify-content: space-between;
@@ -140,3 +140,11 @@
 }
 
     /*==================Button=====================*/
+.btn{
+    display: inline-block;
+    background-color: var(--first-color);
+    color: var(--title-color);
+    padding: 1rem 1.5rem;
+    border-radius: 0.25rem;
+    font-weight: var(--weight-500);
+}

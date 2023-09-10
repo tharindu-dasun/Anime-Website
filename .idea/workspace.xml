@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78de7633-05e1-4171-b757-6174abda721a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Background/banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Background/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Background/home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Background/subscription.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Posters/anime-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Posters/anime-10.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Posters/anime-11.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Posters/anime-12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Posters/anime-13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Posters/anime-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Posters/anime-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Posters/anime-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Posters/anime-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Posters/anime-6.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Posters/anime-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Posters/anime-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Posters/anime-9.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/logo/logo-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/logo/logo-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/logo/logo-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/logo/logo-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/logo/logo-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/logo/logo-6.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/JS/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lk.ijse.gdse/Assests/CSS/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/CSS/Style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lk.ijse.gdse/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lk.ijse.gdse/index.html" afterDir="false" />
@@ -39,6 +17,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -84,7 +63,7 @@
       <workItem from="1693936456480" duration="3134000" />
       <workItem from="1693999075759" duration="3680000" />
       <workItem from="1694016329153" duration="1398000" />
-      <workItem from="1694332093849" duration="2452000" />
+      <workItem from="1694332093849" duration="6998000" />
     </task>
     <servers />
   </component>
