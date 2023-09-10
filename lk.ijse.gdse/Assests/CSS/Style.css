@@ -171,6 +171,53 @@
     width: 88%;
 }
 
+/*=============================Anime============================*/
+.anime__item{
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+    border-top-left-radius: .75rem;
+    border-top-right-radius: .75rem;
+}
+
+.anime__img{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    vertical-align: middle;
+    transition: all 0.5s var(--trasition);
+}
+
+.anime__item:hover .anime__img{
+    transform: scale(1.1);
+}
+.anime__data{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background: linear-gradient(
+            0deg,
+            var(--black) 20%,
+            hsla(0, 0%, 22%, 0.04) 100%
+    );
+    width: 100%;
+    height: 124px;
+    padding: 1.5rem 1.25rem 0;
+}
+
+.anime__title{
+    font-size: var(--normal-font-size);
+}
+.anime__detail{
+    color: var(--title-color);
+    font-size: var(--small-font-size);
+    margin-block: .5rem 0.75rem;
+    display: block;
+}
+.anime__rating{
+    font-size: var(--small-font-size);
+    color: hsl(39, 100%, 55%);
+}
 /* For large devices */
 @media screen and (max-width: 1400px) {
 }
