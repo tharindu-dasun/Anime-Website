@@ -2,7 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78de7633-05e1-4171-b757-6174abda721a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Background/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Background/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Background/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Background/subscription.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Posters/anime-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Posters/anime-10.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Posters/anime-11.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Posters/anime-12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Posters/anime-13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Posters/anime-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Posters/anime-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Posters/anime-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Posters/anime-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Posters/anime-6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Posters/anime-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Posters/anime-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Posters/anime-9.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/logo/logo-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/logo/logo-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/logo/logo-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/logo/logo-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/logo/logo-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/logo/logo-6.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lk.ijse.gdse/Assests/CSS/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/CSS/Style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lk.ijse.gdse/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lk.ijse.gdse/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,20 +54,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Ijse Second/AAD/Anime-Website/lk.ijse.gdse/Assests/Images/logo&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Ijse Second/AAD/Anime-Website/lk.ijse.gdse/Assests/Images/Background",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Ijse Second\AAD\Anime-Website\lk.ijse.gdse\Assests\Images\Background" />
       <recent name="D:\Ijse Second\AAD\Anime-Website\lk.ijse.gdse\Assests\Images\logo" />
+      <recent name="D:\Ijse Second\AAD\Anime-Website\lk.ijse.gdse\Assests\Images\Posters" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -57,7 +83,8 @@
       <workItem from="1693850923246" duration="1799000" />
       <workItem from="1693936456480" duration="3134000" />
       <workItem from="1693999075759" duration="3680000" />
-      <workItem from="1694016329153" duration="987000" />
+      <workItem from="1694016329153" duration="1398000" />
+      <workItem from="1694332093849" duration="2452000" />
     </task>
     <servers />
   </component>

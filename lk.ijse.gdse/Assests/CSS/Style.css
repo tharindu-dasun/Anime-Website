@@ -85,6 +85,11 @@
     padding-inline: 0.75rem;
 }
 
+.grid{
+    display: grid;
+    gap: 1.5rem;
+}
+
     /*==================Header and Nav=====================*/
 .header{
     /*background-color: var(--first-color);*/
@@ -114,4 +119,24 @@
     /*==================Scroll header=====================*/
     /*==================Active link=====================*/
     /*==================Home=====================*/
+.home{
+    background-image: url("https://cdn.wallpapersafari.com/96/45/iprA9a.jpg");
+    background-size: cover;
+    background-position: center;
+    padding-block: 6rem 2rem;
+}
+.home__container{
+    grid-template-columns: 4fr 8fr;
+    align-items: center;
+}
+
+.home__title{
+    font-size: var(--big-font-size);
+    text-transform: uppercase;
+}
+
+.home__description{
+    margin-block: 1.25rem 1.5rem;
+}
+
     /*==================Button=====================*/
