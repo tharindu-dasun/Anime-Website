@@ -4,6 +4,7 @@
     <list default="true" id="78de7633-05e1-4171-b757-6174abda721a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lk.ijse.gdse/Assests/CSS/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/CSS/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lk.ijse.gdse/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lk.ijse.gdse/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,17 +32,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Ijse Second/AAD/anime website",
-    "list.type.of.created.stylesheet": "CSS",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Ijse Second/AAD/anime website&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Ijse Second\AAD\Anime-Website\lk.ijse.gdse\Assests\Images\Background" />
@@ -61,7 +62,8 @@
       <workItem from="1693936456480" duration="3134000" />
       <workItem from="1693999075759" duration="3680000" />
       <workItem from="1694016329153" duration="1398000" />
-      <workItem from="1694332093849" duration="16160000" />
+      <workItem from="1694332093849" duration="16928000" />
+      <workItem from="1694371701892" duration="896000" />
     </task>
     <servers />
   </component>

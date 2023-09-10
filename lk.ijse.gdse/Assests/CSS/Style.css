@@ -218,6 +218,40 @@
     font-size: var(--small-font-size);
     color: hsl(39, 100%, 55%);
 }
+
+/*============================Subscription==========================*/
+.subscription{
+    background-color: var(--container-color-light);
+    padding-block: 2rem;
+    height: 510px;
+}
+.subscription__container{
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+    overflow: hidden;
+}
+.subscription__img{
+    justify-self: center;
+}
+.subscription__title,
+.subscription__date{
+    text-transform: uppercase;
+}
+
+.subscription__title{
+    margin-bottom: 1.25rem;
+}
+
+.subscription__date{
+    color: var(--title-color);
+    font-size: var(--h2-font-size);
+    font-weight: var(--weight-700);
+}
+
+.subscription__description{
+    max-width: 500px;
+    margin-block: 1.25rem 1.5rem;
+}
 /* For large devices */
 @media screen and (max-width: 1400px) {
 }
