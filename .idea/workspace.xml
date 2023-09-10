@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lk.ijse.gdse/Assests/CSS/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/CSS/Style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lk.ijse.gdse/Assests/JS/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/JS/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lk.ijse.gdse/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lk.ijse.gdse/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Ijse Second/AAD/Anime-Website/lk.ijse.gdse/Assests/Images/Background",
+    "last_opened_file_path": "D:/Ijse Second/AAD/anime website",
     "list.type.of.created.stylesheet": "CSS",
     "nodejs_package_manager_path": "npm"
   }
@@ -62,7 +63,7 @@
       <workItem from="1693936456480" duration="3134000" />
       <workItem from="1693999075759" duration="3680000" />
       <workItem from="1694016329153" duration="1398000" />
-      <workItem from="1694332093849" duration="8223000" />
+      <workItem from="1694332093849" duration="13640000" />
     </task>
     <servers />
   </component>

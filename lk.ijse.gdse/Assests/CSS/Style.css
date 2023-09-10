@@ -79,15 +79,23 @@
         }
     /*==================Reuseble css classes=====================*/
 .container{
-    /*background-color: var(--first-color);*/
     max-width: 1400px;
-    margin-inline: auto;
+    margin-inline: 50px;
     padding-inline: 0.75rem;
 }
 
 .grid{
     display: grid;
     gap: 1.5rem;
+}
+
+.section{
+    padding-block: 4rem 3.5rem;
+}
+
+.section__title{
+    font-size: var(--h1-font-size);
+    margin-bottom: 1.75rem;
 }
 
     /*==================Header and Nav=====================*/
@@ -120,7 +128,8 @@
     /*==================Active link=====================*/
     /*==================Home=====================*/
 .home{
-    background-image: url("https://cdn.wallpapersafari.com/96/45/iprA9a.jpg");
+    /*background-image: url("https://cdn.wallpapersafari.com/96/45/iprA9a.jpg");*/
+    background-image: url("../../../lk.ijse.gdse/Assests/Images/Background/bg.jpg");
     background-size: cover;
     background-position: center;
     padding-block: 6rem 2rem;
@@ -160,4 +169,25 @@
 
 .brand__logo{
     width: 88%;
+}
+
+/* For large devices */
+@media screen and (max-width: 1400px) {
+}
+
+@media screen and (max-width: 1200px) {
+}
+
+/* For medium devices */
+@media screen and (max-width: 992px) {
+}
+
+@media screen and (max-width: 768px) {
+}
+
+/* For small devices */
+@media screen and (max-width: 576px) {
+}
+
+@media screen and (max-width: 450px) {
 }
