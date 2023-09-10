@@ -148,3 +148,16 @@
     border-radius: 0.25rem;
     font-weight: var(--weight-500);
 }
+
+    /*==================Brand=====================*/
+.brand__item{
+    background-color: var(--container-color);
+    height: 100px;
+    border-radius: .5rem;
+    display: grid;
+    place-items: center;
+}
+
+.brand__logo{
+    width: 88%;
+}
