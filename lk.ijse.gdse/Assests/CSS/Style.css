@@ -252,6 +252,11 @@
     max-width: 500px;
     margin-block: 1.25rem 1.5rem;
 }
+
+/*==================================trending-anime=========================*/
+.trending-anime{
+    background-color: var(--container-color-light);
+}
 /* For large devices */
 @media screen and (max-width: 1400px) {
 }
