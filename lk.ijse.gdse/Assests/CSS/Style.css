@@ -105,6 +105,7 @@
     top: 0;
     left: 0;
     width: 100%;
+    z-index: 100;
 }
 
 .nav{
@@ -125,6 +126,9 @@
     transition: all 0.3s var(--trasition);
 }
     /*==================Scroll header=====================*/
+.scroll-header{
+    background-color: var(--black);
+}
     /*==================Active link=====================*/
     /*==================Home=====================*/
 .home{
@@ -350,6 +354,7 @@
 }
 /* For large devices */
 @media screen and (max-width: 1400px) {
+
 }
 
 @media screen and (max-width: 1200px) {
