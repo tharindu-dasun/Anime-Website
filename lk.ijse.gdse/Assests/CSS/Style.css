@@ -248,6 +248,7 @@
 }
 .subscription__img{
     justify-self: center;
+    width: 400px;
 }
 .subscription__title,
 .subscription__date{
