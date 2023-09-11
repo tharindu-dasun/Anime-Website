@@ -145,7 +145,7 @@
     /*==================Home=====================*/
 .home{
     /*background-image: url("https://cdn.wallpapersafari.com/96/45/iprA9a.jpg");*/
-    background-image: url("../../../lk.ijse.gdse/Assests/Images/Background/bg.jpg");
+    background-image: url("https://a-static.besthdwallpaper.com/dragon-ball-z-goku-power-wallpaper-2560x1920-103389_27.jpg");
     background-size: cover;
     background-position: center;
     padding-block: 6rem 2rem;
@@ -167,7 +167,7 @@
     /*==================Button=====================*/
 .btn{
     display: inline-block;
-    background-color: var(--first-color);
+    background-color: var(--black);
     color: var(--title-color);
     padding: 1rem 1.5rem;
     border-radius: 0.25rem;
