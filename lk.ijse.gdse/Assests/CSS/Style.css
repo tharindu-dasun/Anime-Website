@@ -36,12 +36,12 @@
     /*==================Responsive typograpy=====================*/
     @media screen and (max-width: 992px){
             :root{
-                --big-font-size: 2.5rem;
-                --h1-font-size: 1.75rem;
-                --h2-font-size: 1.5rem;
-                --h3-font-size: 1.25rem;
-                --normal-font-size: 1rem;
-                --small-font-size: .875rem;
+                --big-font-size: 1.75rem;
+                --h1-font-size: 1.5rem;
+                --h2-font-size: 1.25rem;
+                --h3-font-size: 1rem;
+                --normal-font-size: .938rem;
+                --small-font-size: .813;
             }
     }
     /*==================base=====================*/
@@ -81,8 +81,20 @@
 .container{
     max-width: 1400px;
     margin-inline: 50px;
+    /*margin-inline: auto;*/
     padding-inline: 0.75rem;
 }
+
+/*.nav__menu{*/
+/*    position: fixed;*/
+/*    top: 0;*/
+/*    right: -100%;*/
+/*    background-color: var(--title-color);*/
+/*    width: 400px;*/
+/*    height: 100%;*/
+/*    padding: 4rem 1rem;*/
+/*    transition: all 0.3s var(--trasition);*/
+/*}*/
 
 .grid{
     display: grid;
@@ -354,10 +366,24 @@
 }
 /* For large devices */
 @media screen and (max-width: 1400px) {
-
+    /*.container{*/
+    /*    max-width: 1140px;*/
+    /*}*/
+    /*.home__container{*/
+    /*    grid-template-columns: 5fr 7fr;*/
+    /*}*/
+    /*.footer__container{*/
+    /*    grid-template-columns: repeat(2, 1fr);*/
+    /*}*/
 }
 
 @media screen and (max-width: 1200px) {
+    /*.container{*/
+    /*    max-width: 960px;*/
+    /*}*/
+    /*.home__container{*/
+    /*    grid-template-columns: repeat(2, 1fr);*/
+    /*}*/
 }
 
 /* For medium devices */
