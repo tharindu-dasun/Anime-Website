@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78de7633-05e1-4171-b757-6174abda721a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/Background/nesuko.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/Images/logo/logo1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lk.ijse.gdse/Assests/CSS/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/CSS/Style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lk.ijse.gdse/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lk.ijse.gdse/index.html" afterDir="false" />
@@ -39,16 +39,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Ijse Second/AAD/Anime-Website/lk.ijse.gdse/Assests/Images/Background",
+    "last_opened_file_path": "D:/Ijse Second/AAD/Anime-Website/lk.ijse.gdse/Assests/Images/logo",
     "list.type.of.created.stylesheet": "CSS",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Ijse Second\AAD\Anime-Website\lk.ijse.gdse\Assests\Images\logo" />
       <recent name="D:\Ijse Second\AAD\Anime-Website\lk.ijse.gdse\Assests\Images\Background" />
       <recent name="D:\Ijse Second\AAD\Anime-Website\lk.ijse.gdse\Assests\Images\Posters" />
-      <recent name="D:\Ijse Second\AAD\Anime-Website\lk.ijse.gdse\Assests\Images\logo" />
       <recent name="D:\Ijse Second\AAD\Anime-Website\lk.ijse.gdse\Assests\CSS" />
     </key>
   </component>
@@ -66,7 +66,7 @@
       <workItem from="1694016329153" duration="1398000" />
       <workItem from="1694332093849" duration="16928000" />
       <workItem from="1694371701892" duration="2677000" />
-      <workItem from="1694413715692" duration="17264000" />
+      <workItem from="1694413715692" duration="18455000" />
     </task>
     <servers />
   </component>

@@ -120,6 +120,10 @@
     z-index: 100;
 }
 
+.nav__logo-img{
+    width: 350px;
+}
+
 .nav{
     /*background-color: var(--first-color);*/
     height: calc(var(--header-height) + 1rem);
