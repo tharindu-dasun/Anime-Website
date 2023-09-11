@@ -257,6 +257,97 @@
 .trending-anime{
     background-color: var(--container-color-light);
 }
+
+/*==================================Footer=========================*/
+.footer{
+    background-color: var(--container-color-light);
+}
+.footer__container{
+    padding-block: 4rem;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 3rem;
+}
+
+.foot__title{
+    font-size: var(--h3-font-size);
+    margin-bottom: 1.5rem;
+}
+
+.footer__anime-item,
+.tweet__item{
+    display: flex;
+    column-gap: 1rem;
+}
+
+.footer__anime-item:not(:last-child),
+.tweet__item:not(:last-child){
+    margin-bottom: 1.5rem;
+}
+
+.item__data{
+    width: calc(100% - 7rem);
+}
+
+.item__title,
+.tweet__title{
+    font-size: var(--normal-font-size);
+    font-weight: var(--weight-500);
+    line-height: 1.2;
+    margin-bottom: .25rem;
+}
+
+.item__details,
+.tweet__details{
+    color: var(--first-color);
+    font-size: var(--small-font-size);
+}
+
+.item__details{
+    display: block;
+    margin-bottom: 0.75rem;
+}
+
+.item__rating{
+    color: hsl(39, 100%, 55%);
+    font-size: var(--smaller-font-size);
+}
+
+.tweet__item:not(:last-child){
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 1rem;
+}
+
+.tweet-icon{
+    color: var(--first-color);
+    font-size: var(--h1-font-size);
+}
+
+.footer__anime-item img{
+    width: 96px;
+    height: 80px;
+    object-fit: cover;
+}
+
+.footer__instagram{
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.5rem;
+}
+
+.feed__img{
+    height: 70px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.footer__bottom{
+    background-color: var(--first-color);
+    padding-block: 1rem;
+}
+
+.footer__copyright{
+    color: var(--title-color);
+    text-align: center;
+}
 /* For large devices */
 @media screen and (max-width: 1400px) {
 }
